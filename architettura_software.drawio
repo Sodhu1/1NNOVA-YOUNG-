@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="UWOFtjil2-tlR1KznyY6">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X6c_P8rgpClHV_XiaMZI-3" value="&lt;div&gt;index.html&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="600" y="330" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X6c_P8rgpClHV_XiaMZI-4" value="Chi siamo" style="html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X6c_P8rgpClHV_XiaMZI-5" value="&lt;div&gt;Contatti&lt;/div&gt;" style="html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X6c_P8rgpClHV_XiaMZI-6" value="Listino" style="html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X6c_P8rgpClHV_XiaMZI-7" value="login" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="760" y="330" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X6c_P8rgpClHV_XiaMZI-8" value="Studente" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="920" y="160" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X6c_P8rgpClHV_XiaMZI-9" value="Azienda" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="920" y="270" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X6c_P8rgpClHV_XiaMZI-10" value="Scuola" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="920" y="380" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X6c_P8rgpClHV_XiaMZI-11" value="Tutor" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="920" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
